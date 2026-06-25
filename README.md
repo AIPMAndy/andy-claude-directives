@@ -1,8 +1,14 @@
+# 👉 [中文文档 Chinese README](./README_CN.md)
+
+---
+
 # AgentCorePrompt - Core Operating Directives for AI Agents
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub stars](https://img.shields.io/github/stars/AIPMAndy/AgentCorePrompt?style=social)](https://github.com/AIPMAndy/AgentCorePrompt/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+
+> **📖 [中文完整文档请点击这里 | Click here for Chinese documentation](./README_CN.md)**
 
 Universal behavioral guidelines for AI coding agents (Claude Code, Codex, Cursor, etc.) that combines fundamental cognitive axioms, Musk's engineering methodology, and Karpathy's coding principles to maximize execution quality and minimize common LLM mistakes.
 
