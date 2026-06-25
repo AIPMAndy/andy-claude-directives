@@ -1,7 +1,7 @@
-# AgentCorePrompt - AI Agent 核心操作指令
+# AndySoul - AI Agent 核心操作指令
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/AIPMAndy/AgentCorePrompt?style=social)](https://github.com/AIPMAndy/AgentCorePrompt/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/AIPMAndy/AndySoul?style=social)](https://github.com/AIPMAndy/AndySoul/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
 适用于 AI 编码 Agent（Claude Code、Codex、Cursor 等）的通用行为指南，结合了基础认知公理、马斯克的工程方法论和 Karpathy 的编码原则，旨在最大化执行质量并最小化常见的 LLM 错误。
@@ -48,13 +48,13 @@
 
 ```bash
 # Claude Code 用户
-curl -o CLAUDE.md https://raw.githubusercontent.com/AIPMAndy/AgentCorePrompt/main/CLAUDE.md
+curl -o CLAUDE.md https://raw.githubusercontent.com/AIPMAndy/AndySoul/main/CLAUDE.md
 
 # Cursor / Codex 用户
-curl -o .cursorrules https://raw.githubusercontent.com/AIPMAndy/AgentCorePrompt/main/CLAUDE.md
+curl -o .cursorrules https://raw.githubusercontent.com/AIPMAndy/AndySoul/main/CLAUDE.md
 
 # 或浏览特定场景模板
-curl -O https://raw.githubusercontent.com/AIPMAndy/AgentCorePrompt/main/TEMPLATES.md
+curl -O https://raw.githubusercontent.com/AIPMAndy/AndySoul/main/TEMPLATES.md
 ```
 
 ## 如何使用
@@ -62,14 +62,14 @@ curl -O https://raw.githubusercontent.com/AIPMAndy/AgentCorePrompt/main/TEMPLATE
 ### Claude Code
 复制 `CLAUDE.md` 到项目根目录：
 ```bash
-curl -o CLAUDE.md https://raw.githubusercontent.com/AIPMAndy/AgentCorePrompt/main/CLAUDE.md
+curl -o CLAUDE.md https://raw.githubusercontent.com/AIPMAndy/AndySoul/main/CLAUDE.md
 ```
 Claude Code 会自动加载。
 
 ### Cursor / Codex
 复制为 `.cursorrules`：
 ```bash
-curl -o .cursorrules https://raw.githubusercontent.com/AIPMAndy/AgentCorePrompt/main/CLAUDE.md
+curl -o .cursorrules https://raw.githubusercontent.com/AIPMAndy/AndySoul/main/CLAUDE.md
 ```
 
 ### 其他 AI Agent
@@ -132,7 +132,7 @@ curl -o .cursorrules https://raw.githubusercontent.com/AIPMAndy/AgentCorePrompt/
 AI：[添加验证 + 重构表单 + 更新样式 + 添加未使用的错误状态]
 ```
 
-**之后**（使用 AgentCorePrompt）：
+**之后**（使用 AndySoul）：
 ```
 用户："给登录表单添加验证"
 AI："我会添加邮箱/密码验证。计划：
@@ -160,7 +160,7 @@ AI："我会添加邮箱/密码验证。计划：
 
 如果这对你有帮助，请考虑给个 star ⭐
 
-[![Star History Chart](https://api.star-history.com/svg?repos=AIPMAndy/AgentCorePrompt&type=Date)](https://star-history.com/#AIPMAndy/AgentCorePrompt&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=AIPMAndy/AndySoul&type=Date)](https://star-history.com/#AIPMAndy/AndySoul&Date)
 
 ## 社区
 
@@ -201,6 +201,6 @@ MIT - 自由使用、修改，无需署名。
 
 如果你觉得有价值：
 - ⭐ 给仓库点星
-- 🐦 在 [Twitter/X](https://twitter.com/intent/tweet?text=推荐%20AgentCorePrompt%20-%20适用于%20AI%20编码%20Agent（Claude、Codex、Cursor）的通用指令%20-%20结合认知公理、马斯克方法论和%20Karpathy%20原则&url=https://github.com/AIPMAndy/AgentCorePrompt) 分享
+- 🐦 在 [Twitter/X](https://twitter.com/intent/tweet?text=推荐%20AndySoul%20-%20适用于%20AI%20编码%20Agent（Claude、Codex、Cursor）的通用指令%20-%20结合认知公理、马斯克方法论和%20Karpathy%20原则&url=https://github.com/AIPMAndy/AndySoul) 分享
 - 💬 在 Issues 分享你的成功案例
 - 🤝 通过 PR 贡献改进

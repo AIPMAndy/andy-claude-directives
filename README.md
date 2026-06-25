@@ -2,10 +2,10 @@
 
 ---
 
-# AgentCorePrompt - Core Operating Directives for AI Agents
+# AndySoul - Core Operating Directives for AI Agents
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/AIPMAndy/AgentCorePrompt?style=social)](https://github.com/AIPMAndy/AgentCorePrompt/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/AIPMAndy/AndySoul?style=social)](https://github.com/AIPMAndy/AndySoul/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
 > **📖 [中文完整文档请点击这里 | Click here for Chinese documentation](./README_CN.md)**
@@ -54,13 +54,13 @@ Built on three pillars:
 
 ```bash
 # For Claude Code
-curl -o CLAUDE.md https://raw.githubusercontent.com/AIPMAndy/AgentCorePrompt/main/CLAUDE.md
+curl -o CLAUDE.md https://raw.githubusercontent.com/AIPMAndy/AndySoul/main/CLAUDE.md
 
 # For Cursor / Codex
-curl -o .cursorrules https://raw.githubusercontent.com/AIPMAndy/AgentCorePrompt/main/CLAUDE.md
+curl -o .cursorrules https://raw.githubusercontent.com/AIPMAndy/AndySoul/main/CLAUDE.md
 
 # Or browse templates for specific use cases
-curl -O https://raw.githubusercontent.com/AIPMAndy/AgentCorePrompt/main/TEMPLATES.md
+curl -O https://raw.githubusercontent.com/AIPMAndy/AndySoul/main/TEMPLATES.md
 ```
 
 ## How to Use
@@ -68,14 +68,14 @@ curl -O https://raw.githubusercontent.com/AIPMAndy/AgentCorePrompt/main/TEMPLATE
 ### For Claude Code
 Copy `CLAUDE.md` to your project root:
 ```bash
-curl -o CLAUDE.md https://raw.githubusercontent.com/AIPMAndy/AgentCorePrompt/main/CLAUDE.md
+curl -o CLAUDE.md https://raw.githubusercontent.com/AIPMAndy/AndySoul/main/CLAUDE.md
 ```
 Claude Code will automatically load it.
 
 ### For Cursor / Codex
 Copy as `.cursorrules`:
 ```bash
-curl -o .cursorrules https://raw.githubusercontent.com/AIPMAndy/AgentCorePrompt/main/CLAUDE.md
+curl -o .cursorrules https://raw.githubusercontent.com/AIPMAndy/AndySoul/main/CLAUDE.md
 ```
 
 ### For Other AI Agents
@@ -138,7 +138,7 @@ User: "Add validation to the login form"
 AI: [Adds validation + refactors form + updates styles + adds unused error states]
 ```
 
-**After** (with AgentCorePrompt):
+**After** (with AndySoul):
 ```
 User: "Add validation to the login form"
 AI: "I'll add email/password validation. Plan:
@@ -166,7 +166,7 @@ For simple typos or one-line fixes, use your judgment.
 
 If this helped you, consider giving it a star ⭐
 
-[![Star History Chart](https://api.star-history.com/svg?repos=AIPMAndy/AgentCorePrompt&type=Date)](https://star-history.com/#AIPMAndy/AgentCorePrompt&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=AIPMAndy/AndySoul&type=Date)](https://star-history.com/#AIPMAndy/AndySoul&Date)
 
 ## Community
 
@@ -207,6 +207,6 @@ Just one developer's attempt to make AI coding agents more systematically reliab
 
 If you find this valuable:
 - ⭐ Star the repo
-- 🐦 Share on [Twitter/X](https://twitter.com/intent/tweet?text=Check%20out%20AgentCorePrompt%20-%20Universal%20directives%20for%20AI%20coding%20agents%20(Claude%2C%20Codex%2C%20Cursor)%20-%20Combines%20cognitive%20axioms%2C%20Musk%27s%20methodology%2C%20and%20Karpathy%27s%20principles&url=https://github.com/AIPMAndy/AgentCorePrompt)
+- 🐦 Share on [Twitter/X](https://twitter.com/intent/tweet?text=Check%20out%20AndySoul%20-%20Universal%20directives%20for%20AI%20coding%20agents%20(Claude%2C%20Codex%2C%20Cursor)%20-%20Combines%20cognitive%20axioms%2C%20Musk%27s%20methodology%2C%20and%20Karpathy%27s%20principles&url=https://github.com/AIPMAndy/AndySoul)
 - 💬 Share your success story in Issues
 - 🤝 Contribute improvements via PR
